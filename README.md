@@ -8,9 +8,6 @@ In my portfolio and linkedin you can validate the certificates that I have obtai
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&logo=showwcase)](https://jesus-portfolio.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jesuiz/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-gray?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesuiz.design/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=showwcase&logoColor=gray)](https://jesus-portfolio.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=gray)](https://www.linkedin.com/in/jesuiz/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=gray)](https://www.instagram.com/jesuiz.design/)
 
 
 ### Sideprojects: 🚀

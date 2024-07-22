@@ -1,20 +1,25 @@
-### About Me: 🧑‍🦱
+### About Me: 👨‍💻
 I am a Junior Full Stack Developer with 2 years of experience in PHP and Laravel, and basic knowledge of frontend technologies such as JavaScript, React, Astro and NextJS. In addition, I have 6 years of experience as a Senior Graphic Designer, specialized in Visual Identity.
-       
-   
-### Social media: 📡
+
+
+### Social media: ✨
 In my portfolio and linkedin you can validate the certificates that I have obtained, you also have my instagram, where you can see graphic design content.
 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&logo=showwcase)](https://jesus-portfolio.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jesuiz/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-gray?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesuiz.design/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=showwcase&logoColor=gray)](https://jesus-portfolio.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=gray)](https://www.linkedin.com/in/jesuiz/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=gray)](https://www.instagram.com/jesuiz.design/)
 
 
 ### Sideprojects: 🚀
 - [Condoforce](https://github.com/Jesuiz/Condoforce)
+- [DocumentPECheck](https://github.com/Jesuiz/DocumentPECheck)
 
 
 ## Languages and Tools
+
 <div>
 
 ### Languages:
@@ -28,7 +33,7 @@ In my portfolio and linkedin you can validate the certificates that I have obtai
 
 | Laravel | Livewire | Filament | Wordpress | NextJs | React | Selenium |
 |----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire"  alt="Livewire" width="55" height="55"/> |  <img src="assets\filament-php.svg" title="Filament" alt="Filament" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire"  alt="Livewire" width="55" height="55"/> |  <img src="assets\filament-ico.svg" title="Filament" alt="Filament" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>
 
 
 
@@ -36,7 +41,7 @@ In my portfolio and linkedin you can validate the certificates that I have obtai
 
 | Composer | NojdeJs | Vercel | AWS S3 | Cloudflare | Postman | MySQL |
 |----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS S3" alt="AWS S3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55" | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS S3" alt="AWS S3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>
 
 
 

@@ -20,6 +20,7 @@ In my portfolio and linkedin you can validate the certificates that I have obtai
 <div>
 
 ### Languages:
+
 | PHP | JS | Python3 |
 |------|------|------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="php" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" height="30"/>
@@ -29,7 +30,7 @@ In my portfolio and linkedin you can validate the certificates that I have obtai
 ### Frameworks, Libraries and Technologies:
 
 | Laravel | Livewire | Filament | Wordpress | NextJs | React | Selenium |
-|------|------|------|------|------|------|------|
+|:-------:|:--------:|:--------:|:---------:|:------:|:-----:|:--------:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="30" height="30"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire"  alt="Livewire" width="30" height="30"/> |  <img src="assets\filament-ico.svg" title="Filament" alt="Filament" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="SQLite" alt="SQLite" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="SQLite" alt="SQLite" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="30" height="30"/>
 
 

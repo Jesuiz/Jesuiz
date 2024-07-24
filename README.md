@@ -38,7 +38,7 @@ In my portfolio and linkedin you can validate the certificates that I have obtai
 ### Environments, Deploy and Database:
 
 | Composer | NojdeJs | Vercel | AWS S3 | Cloudflare | Postman | MySQL |
-|------|------|------|------|------|------|------|
+|:--------:|:-------:|:------:|:------:|:----------:|:-------:|:-----:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS S3" alt="AWS S3" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="30" height="30"/>
 
 
@@ -46,7 +46,7 @@ In my portfolio and linkedin you can validate the certificates that I have obtai
 ### Graphic & Web Design:
 
 | Illustrator | Photoshop | Figma |
-|------|------|------|
+|:-----------:|:---------:|:-----:|
 |<img src="assets\illustrator.svg" title="Illustrator" alt="Illustrator" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>
 
 </div>
